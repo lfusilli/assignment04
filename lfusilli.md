@@ -79,6 +79,6 @@ Anthony and Stanton began publishing a weekly newspaper called The Revolution in
 
 The Nineteenth Amendment, which guaranteed the right of American women to vote, was colloquially known as the Susan B. Anthony Amendment. After it was ratified in 1920, the National American Woman Suffrage Association, whose character and policies were strongly influenced by Anthony, was transformed into the League of Women Voters, which is still an active force in U.S. politics. Anthony's legacy makes an annual resurgence around election days in November, when many women in Rochester place their "I voted today" stickers on her grave in Mt. Hope Cemetary to celebrate and honor her effort.
 
-![Susan B. Anthony](media/223px-_B_Anthony_c1855.jpg)
+![Susan B. Anthony](media/181px-Susan_B._Anthony_amer-pol-hist.jpg)
 
 > "Failure is impossible."
