@@ -53,6 +53,8 @@ In 1848, Douglass was the only African American to attend the Seneca Falls Conve
 
 At the 1888 Republican National Convention, Douglass became the first African American to receive a vote for President of the United States in a major party's roll call vote.
 
+![Frederick Douglass](/media/167px-Frederick_Douglass_portrait.jpg)
+
 > "I would unite with anybody to do right and with nobody to do wrong."
 
 ## Susan B. Anthony
