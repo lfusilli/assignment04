@@ -11,9 +11,21 @@ George Eastman (July 12, 1854 – March 14, 1932) was an American entrepreneur w
 
 ### Early Years
 
+Eastman was born in Waterville, New York to George Washington Eastman and Maria Eastman (née Kilbourn), the youngest child, at the 10-acre farm which his parents bought in 1849. He was largely self-educated, although he attended a private school in Rochester after the age of eight. In the early 1840s his father had started a business school, the Eastman Commercial College in Rochester, New York. It was one of the first "boomtowns" in the United States, based on rapid industrialization. As his father's health started deteriorating, the family gave up the farm and moved to Rochester in 1860. His father died of a brain disorder in May 1862. The young George left school early and started working to help support the family.
+
 ### Active Years
 
+In 1884, Eastman patented the first film in roll form to prove practicable; he had been tinkering at home to develop it. In 1888, he perfected the Kodak Black camera, the first roll film camera designed. He incorporated his company under the name Eastman Kodak, in 1892. Considered progressive for the times, Eastman promoted Florence McAnaney to be head of the personnel department, one of the first women to hold an executive position in a major U.S. company.
+
+During most of the 20th century, Kodak held a dominant position in photographic film. The company's ubiquity was such that its "Kodak moment" tagline entered the common lexicon to describe a personal event that was demanded to be recorded for posterity. When creating the name of his company, Eastman said that there were three principal concepts he used in creating the name: it should be short, easy to pronounce, and not resemble any other name or be associated with anything else.
+
 ### Legacy
+
+In 1915, Eastman founded a bureau of municipal research in Rochester "to get things done for the community" and to serve as an "independent, non-partisan agency for keeping citizens informed." Called the Center for Governmental Research, the agency continues to carry out that mission. 
+
+During his lifetime Eastman donated $100 million to various organizations, with most of his money going to the University of Rochester and to the Massachusetts Institute of Technology to build their programs and facilities (under the alias "Mr. Smith"). He was one of the major philanthropists in the United States during his lifetime, and his entire estate was bequeathed to the University of Rochester. The Eastman Quadrangle of the River Campus of the University of Rochester was named for him. A bronze statue of Eastman is also located on the quadrangle.
+
+>"You push the button, we do the rest."
 
 ## Frederick Douglass
 
@@ -65,4 +77,4 @@ The Nineteenth Amendment, which guaranteed the right of American women to vote, 
 
 ![Susan B. Anthony](assignment05/media/223px-Susan_B_Anthony_c1855.png)
 
-> "Failure is impossible"
+> "Failure is impossible."
