@@ -25,6 +25,8 @@ In 1915, Eastman founded a bureau of municipal research in Rochester "to get thi
 
 During his lifetime Eastman donated $100 million to various organizations, with most of his money going to the University of Rochester and to the Massachusetts Institute of Technology to build their programs and facilities (under the alias "Mr. Smith"). He was one of the major philanthropists in the United States during his lifetime, and his entire estate was bequeathed to the University of Rochester. The Eastman Quadrangle of the River Campus of the University of Rochester was named for him. A bronze statue of Eastman is also located on the quadrangle.
 
+![George Eastman](media/George_Eastman_7.jpg)
+
 >"You push the button, we do the rest."
 
 ## Frederick Douglass
@@ -53,7 +55,7 @@ In 1848, Douglass was the only African American to attend the Seneca Falls Conve
 
 At the 1888 Republican National Convention, Douglass became the first African American to receive a vote for President of the United States in a major party's roll call vote.
 
-![Frederick Douglass](/media/167px-Frederick_Douglass_portrait.jpg)
+![Frederick Douglass](media/167px-Frederick_Douglass_portrait.jpg)
 
 > "I would unite with anybody to do right and with nobody to do wrong."
 
@@ -77,6 +79,6 @@ Anthony and Stanton began publishing a weekly newspaper called The Revolution in
 
 The Nineteenth Amendment, which guaranteed the right of American women to vote, was colloquially known as the Susan B. Anthony Amendment. After it was ratified in 1920, the National American Woman Suffrage Association, whose character and policies were strongly influenced by Anthony, was transformed into the League of Women Voters, which is still an active force in U.S. politics. Anthony's legacy makes an annual resurgence around election days in November, when many women in Rochester place their "I voted today" stickers on her grave in Mt. Hope Cemetary to celebrate and honor her effort.
 
-![Susan B. Anthony](assignment05/media/223px-Susan_B_Anthony_c1855.png)
+![Susan B. Anthony](media/223px-_B_Anthony_c1855.jpg)
 
 > "Failure is impossible."
