@@ -11,6 +11,9 @@ George Eastman (July 12, 1854 – March 14, 1932) was an American entrepreneur w
 
 ###
 
+###
+
+###
 
 ## Frederick Douglass
 
@@ -18,7 +21,18 @@ Frederick Douglass (born Frederick Augustus Washington Bailey; c. February 181
 
 ###
 
+###
+
+###
 
 ## Susan B. Anthony
 
 Susan Brownell Anthony (February 15, 1820 – March 13, 1906) was an American social reformer and women's rights activist who played a pivotal role in the women's suffrage movement. Born into a Quaker family committed to social equality, she collected anti-slavery petitions at the age of 17. In 1856, she became the New York state agent for the American Anti-Slavery Society.
+
+###
+
+###
+
+###
+
+> "Failure is impossible"
